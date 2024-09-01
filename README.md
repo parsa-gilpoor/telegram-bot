@@ -17,7 +17,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/YourUsername/YourRepositoryName.git
+git clone [https://github.com/YourUsername/YourRepositoryName.git](https://github.com/parsa-gilpoor/telegram-bot.git)
 cd YourRepositoryName
 Install Dependencies:
 
