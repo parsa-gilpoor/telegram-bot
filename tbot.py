@@ -5,7 +5,7 @@ import sqlite3
 
 # create the bot
 
-bot=telebot.TeleBot('7486604114:AAHU_YCYzGHG3wS2ciPSMKJ5HzT687wiCfE')
+bot=telebot.TeleBot('YOUER TOKEN')
 # create the keyboard
 keyboard = ReplyKeyboardMarkup(resize_keyboard=True, row_width=1)
 button = KeyboardButton(text='send my info', request_contact=True)
